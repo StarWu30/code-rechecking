@@ -1,0 +1,13 @@
+﻿  代码查重.cpp
+d:\c++\代码查重\代码查重\function.h(79): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\代码查重\代码查重\function.h(80): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\代码查重\代码查重\function.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\代码查重\代码查重\function.h(113): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\代码查重\代码查重\function.h(199): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c++\代码查重\代码查重\function.h(200): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  9 of 193 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  代码查重.vcxproj -> D:\c++\代码查重\x64\Release\代码查重.exe
